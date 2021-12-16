@@ -7,7 +7,7 @@
 	url = git://github.com/Microsoft/CBL-Mariner.git
 	branch = main
 [submodule "linux"]
-	path = linux
+	path = linux-msft-wsl
 	url = git://github.com/microsoft/wsl2-linux-kernel.git
 	branch = master
 [submodule "zfs"]
