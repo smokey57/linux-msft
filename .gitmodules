@@ -32,3 +32,6 @@
 	path = systemd
 	url = https://github.com/systemd/systemd
 	branch = main
+[submodule "linux-pam"]
+	path = linux-pam
+	url = https://github.com/linux-pam/linux-pam
