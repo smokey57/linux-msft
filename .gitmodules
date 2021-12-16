@@ -24,3 +24,7 @@
 	path = tar
 	url = http://git.savannah.gnu.org/git/tar.git
 	branch = master
+[submodule "ncompress"]
+	path = ncompress
+	url = https://github.com/vapier/ncompress.git
+	branch = main
