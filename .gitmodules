@@ -28,3 +28,7 @@
 	path = ncompress
 	url = https://github.com/vapier/ncompress.git
 	branch = main
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/systemd/systemd
+	branch = main
