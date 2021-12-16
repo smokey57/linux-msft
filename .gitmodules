@@ -17,3 +17,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/microsoft/docker.git
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = https://github.com/tytso/e2fsprogs
