@@ -14,3 +14,6 @@
 	path = zfs
 	url = git://github.com/openzfs/zfs.git
 	branch = master
+[submodule "docker"]
+	path = docker
+	url = https://github.com/microsoft/docker.git
