@@ -1,0 +1,15 @@
+[submodule "genie"]
+	path = genie
+	url = ./genie
+[submodule "mariner"]
+	path = mariner
+	url = ./mariner
+	branch = 1.0-stable
+[submodule "linux"]
+	path = linux
+	url = ./linux
+	branch = linux-msft-wsl-5.10.74.3
+[submodule "zfs"]
+	path = zfs
+	url = ./zfs
+	branch = zfs-2.0.6
