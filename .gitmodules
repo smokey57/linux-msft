@@ -20,3 +20,6 @@
 [submodule "e2fsprogs"]
 	path = e2fsprogs
 	url = https://github.com/tytso/e2fsprogs
+[submodule "tar"]
+	path = tar
+	url = git://git.savannah.gnu.org/tar.git
