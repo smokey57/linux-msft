@@ -1,15 +1,16 @@
 [submodule "genie"]
 	path = genie
-	url = ./genie
+	url = git://github.com/arkane-systems/genie.git
+	branch = master
 [submodule "mariner"]
 	path = mariner
-	url = ./mariner
-	branch = 1.0-stable
+	url = git://github.com/Microsoft/CBL-Mariner.git
+	branch = main
 [submodule "linux"]
 	path = linux
-	url = ./linux
-	branch = linux-msft-wsl-5.10.74.3
+	url = git://github.com/microsoft/wsl2-linux-kernel.git
+	branch = master
 [submodule "zfs"]
 	path = zfs
-	url = ./zfs
-	branch = zfs-2.0.6
+	url = git://github.com/openzfs/zfs.git
+	branch = master
